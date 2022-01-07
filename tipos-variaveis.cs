@@ -14,6 +14,7 @@ namespace Curso{
       float n6 = 4.5f;
       double n7 = 4.5;
       string nome = "Maria";
+      object obj1 = "Alex";
       //cw tab tab tab preenche automatico
     }
   }
