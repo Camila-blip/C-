@@ -9,9 +9,11 @@ namespace Curso{
       int n2 = 1000;
       long n3 = 2147483648L;
       bool n4 = false;
-      char n5 = "F";
+      // Char que é um único caracter utiliza aspas simples... Somente string utiliza aspas duplas
+      char n5 = 'F';
       float n6 = 4.5f;
       double n7 = 4.5;
+      string nome = "Maria";
       //cw tab tab tab preenche automatico
     }
   }
